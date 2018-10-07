@@ -1,2 +1,4 @@
 First line in project
 Paris is the capital of France
+String number 3
+String number 4
